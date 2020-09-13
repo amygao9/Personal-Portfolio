@@ -8,8 +8,7 @@ const MyNavbar = () => {
         <>
         <Navbar collapseOnSelect fixed="top" expand="md" bg="dark" variant="dark" className="animate-navbar nav-theme justify-content-between">
   <Navbar.Brand href="#home">
-
-    A.G
+  <strong>&nbsp; A.G</strong>
   </Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
   <Navbar.Collapse id="responsive-navbar-nav">
