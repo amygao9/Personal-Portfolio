@@ -9,19 +9,19 @@ const Card = props => {
                     <Carousel.Item>
                     <img
                         className = 'card-img-top'
-                        src= {props.imgsrc}
+                        src= {props.img1}
                     />
                     </Carousel.Item>
                     <Carousel.Item>
                     <img
                         className = 'card-img-top'
-                        src= {props.imgsrc}
+                        src= {props.img2}
                     />
                     </Carousel.Item>
                     <Carousel.Item>
                     <img
                         className = 'card-img-top'
-                        src= {props.imgsrc}
+                        src= {props.img3}
                     />
                     </Carousel.Item>
                 </Carousel>

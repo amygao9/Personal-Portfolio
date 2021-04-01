@@ -13,7 +13,7 @@ import "./skills.styles.css";
 const Skills = () => {
   return (
     <div className="pt-3 pb-3" id="skills">
-      <h1 className="text-center font-details-b pb-4">TECH SKILLS</h1>
+      <h1 className="pt-3 text-center font-details pb-3">Technical Skills</h1>
       <CardDeck>
         <Row className="d-flex justify-content-around">
           {/* Frontend */}
@@ -55,7 +55,7 @@ const Skills = () => {
             </Card>
 
             {/* Hosting Platforms */}
-            <Card className="focus mt-2 mb-2 ">
+            {/* <Card className="focus mt-2 mb-2 ">
               <Card.Body>
                 <Card.Title className="text-center  card-title">Hosting Platforms</Card.Title>
                 <hr />
@@ -69,7 +69,7 @@ const Skills = () => {
                   ))}
                 </Card.Text>
               </Card.Body>
-            </Card>
+            </Card> */}
           </Col>
 
           {/* Programming Languages */}
@@ -92,7 +92,7 @@ const Skills = () => {
 
             {/* Database */}
 
-            <Card className="focus mt-2 mb-2">
+            {/* <Card className="focus mt-2 mb-2">
               <Card.Body>
                 <Card.Title className="text-center  card-title">Database</Card.Title>
                 <hr />
@@ -106,10 +106,10 @@ const Skills = () => {
                   ))}
                 </Card.Text>
               </Card.Body>
-            </Card>
+            </Card> */}
             {/* Version Control */}
 
-            <Card className="focus mt-2 mb-2">
+            {/* <Card className="focus mt-2 mb-2">
               <Card.Body>
                 <Card.Title className="text-center  card-title">Version Control</Card.Title>
                 <hr />
@@ -121,7 +121,7 @@ const Skills = () => {
                   </span>
                 </Card.Text>
               </Card.Body>
-            </Card>
+            </Card> */}
           </Col>
         </Row>
       </CardDeck>

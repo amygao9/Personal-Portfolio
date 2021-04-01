@@ -45,18 +45,6 @@ export const skills = {
       skillName: "JavaScript",
     },
     {
-      link: "https://sass-lang.com/",
-      imgAltText: "Sass",
-      imgSrc: L_SASS,
-      skillName: "Sass",
-    },
-    {
-      link: "https://getbootstrap.com/",
-      imgAltText: "Bootstrap",
-      imgSrc: L_BOOTSTRAP,
-      skillName: "Bootstrap",
-    },
-    {
       link: "https://reactjs.org/",
       imgAltText: "React JS",
       imgSrc: L_REACT,
@@ -69,29 +57,17 @@ export const skills = {
       skillName: "Redux",
     },
     {
-      link: "https://facebook.github.io/flux/",
-      imgAltText: "Flux",
-      imgSrc: L_FLUX,
-      skillName: "Flux",
-    },
-    {
       link: "https://reacttraining.com/react-router/",
       imgAltText: "React Router",
       imgSrc: L_REACT_ROUTER,
       skillName: "React Router",
     },
-    {
-      link: "https://react-bootstrap.github.io/",
-      imgAltText: "React Bootstrap",
-      imgSrc: L_REACT_BOOTSTRAP,
-      skillName: "React Bootstrap",
-    },
-    {
-      link: "https://material-ui.com/",
-      imgAltText: "Material-UI",
-      imgSrc: L_MATERIALUI,
-      skillName: "Material-UI",
-    },
+    // {
+    //   link: "https://react-bootstrap.github.io/",
+    //   imgAltText: "React Bootstrap",
+    //   imgSrc: L_REACT_BOOTSTRAP,
+    //   skillName: "React Bootstrap",
+    // },
   ],
 
   backend: [
@@ -127,24 +103,24 @@ export const skills = {
       imgSrc: L_HEROKU,
       skillName: "Heroku",
     },
-    {
-      link: "https://www.digitalocean.com/",
-      imgAltText: "Digital Ocean",
-      imgSrc: L_DIGITAL_OCEAN,
-      skillName: "Digital Ocean",
-    },
+    // {
+    //   link: "https://www.digitalocean.com/",
+    //   imgAltText: "Digital Ocean",
+    //   imgSrc: L_DIGITAL_OCEAN,
+    //   skillName: "Digital Ocean",
+    // },
     {
       link: "https://pages.github.com/",
       imgAltText: "GitHub Pages",
       imgSrc: L_GITHUB_PAGES,
       skillName: "GitHub Pages",
     },
-    {
-      link: "https://www.pythonanywhere.com/",
-      imgAltText: "pythonanywhere",
-      imgSrc: L_PYTHONANYWHERE,
-      skillName: "PythonAnywhere",
-    },
+    // {
+    //   link: "https://www.pythonanywhere.com/",
+    //   imgAltText: "pythonanywhere",
+    //   imgSrc: L_PYTHONANYWHERE,
+    //   skillName: "PythonAnywhere",
+    // },
   ],
   programmingLanguages: [
     {
@@ -165,12 +141,12 @@ export const skills = {
       imgSrc: L_PYTHON,
       skillName: "Python",
     },
-    {
-      link: "https://golang.org/",
-      imgAltText: "Golang",
-      imgSrc: L_GOLANG,
-      skillName: "Golang",
-    },
+    // {
+    //   link: "https://golang.org/",
+    //   imgAltText: "Golang",
+    //   imgSrc: L_GOLANG,
+    //   skillName: "Golang",
+    // },
   ],
   databases: [
     {
@@ -179,12 +155,12 @@ export const skills = {
       imgSrc: L_POSTGRESQL,
       skillName: "PostgreSQL",
     },
-    {
-      link: "https://www.microsoft.com/en-us/sql-server/sql-server-2019",
-      imgAltText: "MS-SQL",
-      imgSrc: L_MSSQL,
-      skillName: "MS-SQL",
-    },
+    // {
+    //   link: "https://www.microsoft.com/en-us/sql-server/sql-server-2019",
+    //   imgAltText: "MS-SQL",
+    //   imgSrc: L_MSSQL,
+    //   skillName: "MS-SQL",
+    // },
   ],
   versionControl: [
     {

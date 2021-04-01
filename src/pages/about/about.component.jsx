@@ -25,16 +25,17 @@ const About = () => {
                     {/* About Me Description */}
                     <Col xs={12} md={6}>
                         <Row className=" align-items-start p-2 my-details rounded">
-                        Hi there! I am <strong>&nbsp;Amy Gao.</strong>
+                        Hi there! I'm <strong>&nbsp;Amy.</strong>
                         <br />As a third year computer science and data science student at UofT, I am always looking for opportunities to learn new things and improve my skills. 
+                        <br />
+                        <br />
+                        A little bit about me; I love playing volleyball with friends in my freetime, and also am a huge foodie who always wants to try new food!
                         
                         <br />
-                        add stuff about skills...
+                        
                         <br />
-                        blah blah
-                        <br />
-                        Along with that, I also
-                        <br /> <br />
+                        For the next year, I will be a software engineer intern at RedHat!
+                        <br /> 
                         </Row>
                         <Row>
                             {/* links */}
