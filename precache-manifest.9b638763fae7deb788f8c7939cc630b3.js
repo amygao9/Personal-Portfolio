@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f22615da073a951de3bed32d6fc14c2",
+    "revision": "7da684f0b59b809eb6b7f47cd7a5e3f5",
     "url": "/Personal-Portfolio/index.html"
   },
   {
-    "revision": "7ee673292af39aa1c37f",
+    "revision": "afcea85e606d6a2cdc10",
     "url": "/Personal-Portfolio/static/css/main.089b2dc3.chunk.css"
   },
   {
-    "revision": "a8b605866830fc3d9d56",
-    "url": "/Personal-Portfolio/static/js/2.6f8183c7.chunk.js"
+    "revision": "d3bf0ca256d0e7c4459d",
+    "url": "/Personal-Portfolio/static/js/2.af4e48c9.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/Personal-Portfolio/static/js/2.6f8183c7.chunk.js.LICENSE.txt"
+    "url": "/Personal-Portfolio/static/js/2.af4e48c9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ee673292af39aa1c37f",
-    "url": "/Personal-Portfolio/static/js/main.76d05031.chunk.js"
+    "revision": "afcea85e606d6a2cdc10",
+    "url": "/Personal-Portfolio/static/js/main.c21fbc43.chunk.js"
   },
   {
     "revision": "ca2637f7ff0c1ddf6881",
     "url": "/Personal-Portfolio/static/js/runtime-main.80965414.js"
+  },
+  {
+    "revision": "4bf46274c5481ecd8f829785b7204df4",
+    "url": "/Personal-Portfolio/static/media/Amy_Gao_Resume.4bf46274.pdf"
   },
   {
     "revision": "2a80fe1da0027401c814be4a9f4387cb",
