@@ -4,9 +4,10 @@ import Container from 'react-bootstrap/Container'
 import Col from 'react-bootstrap/Col'
 import Image from 'react-bootstrap/Image'
 import "./about.style.css";
-// import Profile from '../../assets/img/profile/profile.jpg'
+import Resume from '../../assets/files/Amy_Gao_Resume.pdf'
 import Profile from '../../assets/img/profile/prof.jpg'
 import { MdEmail } from "react-icons/md";
+import { IoIosDocument } from "react-icons/io";
 
 import { AiFillLinkedin, AiFillGithub } from "react-icons/ai";
 const About = () => {  
@@ -43,6 +44,7 @@ const About = () => {
                             <a  href = {'mailto:amyy.gao@mail.utoronto.ca'} className="btn btn-outline-secondary"> <MdEmail></MdEmail> </a>
                             <a  href = {'https://www.linkedin.com/in/agao/'} className="btn btn-outline-secondary"> <AiFillLinkedin/> </a>
                             <a  href = {'https://github.com/amygaoo'} className="btn btn-outline-secondary"> <AiFillGithub/> </a> 
+                            <a href = {Resume} target = "_blank" className="btn btn-outline-secondary"> <IoIosDocument/></a>
                         </div>
                         
                         </Row>
