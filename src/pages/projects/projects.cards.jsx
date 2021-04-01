@@ -26,12 +26,13 @@ class Cards extends Component{
                         <Card img1={appetite1} img2 = {appetite2} img3 = {appetite3} 
                         text = "Appetite is the mobile app for food lovers who want to discover and try new cuisines with friends and family, with filters based on type of cuisine, location, and price range." title = "Appetite"/>
                     </div>
+                    
                     <div className = 'col-md-4 my-auto'>
-                        <Card img1={img2} img2 = {img2} img3 = {img2} text = "An android game involving a series of levels in order to escape a dungeon" title = "Dungeon Escape"/>
+                        <Card img1={spendr1} img2 = {spendr2} img3 = {spendr3}  text = " A Money Social Networking Platform to connect individuals' spending to their budget and share with friends and family. " title = "Spendr"/>
                 
                     </div>
                     <div className = 'col-md-4 my-auto'>
-                        <Card img1={spendr1} img2 = {spendr2} img3 = {spendr3} text = " A Money Social Networking Platform to connect individuals' spending to their budget and share with friends and family. " title = "Spendr"/>
+                        <Card img1={img2} img2 = {img2} img3 = {img2} github = {"https://github.com/amygaoo/Dungeon-Escape"} text = "An android game involving a series of levels in order to escape a dungeon" title = "Dungeon Escape"/>
                 
                     </div>
                 </div>

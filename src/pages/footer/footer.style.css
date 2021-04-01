@@ -1,0 +1,15 @@
+.body{
+    background-color: white;
+    width:100%;
+    box-shadow: 1px 1px 1px rgb(177, 177, 177);
+}
+.footer-info{
+    text-align: center;
+    font-size: 30px;
+ 
+}
+.material-icons.md-dark { 
+    color: black;
+    font-size: 30px;
+
+}

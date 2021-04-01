@@ -2,6 +2,7 @@ import React from 'react'
 import './projects.card-style.css'
 import Carousel from 'react-bootstrap/Carousel'
 const Card = props => {
+
     return(
         <div className = 'card text-center shadow'>
             <div className = 'overflow'>
@@ -30,8 +31,8 @@ const Card = props => {
             <div className="card-body text-dark">
                 <h4 className = "card-title"> {props.title}</h4>
                 <p className = "card-text text-secondary"> {props.text} </p>
+                { props.github ? <a  href = {props.github} className="btn btn-outline-success"> Github</a> : null }
                 
-                <a href = "#" className="btn btn-outline-success"> Github</a>
             </div>
         </div>
     )

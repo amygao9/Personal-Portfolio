@@ -8,6 +8,8 @@ import Background from './components/background/background.component'
 import About from './pages/about/about.component'
 import Projects from './pages/projects/projects.cards'
 import Skills from './pages/skills/skills.component'
+import FooterPage from './pages/footer/footer.jsx'
+
 const App = () => {
   return (
     <div>
@@ -17,6 +19,8 @@ const App = () => {
       <About/>
       <Projects/>
       <Skills/>
+      <FooterPage/>
+
     </div>
   );
 }
